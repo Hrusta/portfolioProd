@@ -1,10 +1,10 @@
 import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { LuGraduationCap } from "react-icons/lu";
-import net from "@/public/net.png";
-import ecom1 from "@/public/ecom1.png";
-import ask from "@/public/ask.png";
-import myroom from "@/public/myroom.png";
+import net from "@/public/net.jpg";
+import ecom1 from "@/public/ecom1.jpg";
+import ask from "@/public/ask.jpg";
+import myroom from "@/public/myroom.jpg";
 
 export const links = [
   {
